@@ -105,7 +105,7 @@ I'm proactive, responsible, and highly motivated to keep learning and growing in
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AngelBerretta&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBerretta&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AngelBerretta&layout=compact&theme=transparent)
 ---
 
 ## 📌 Availability
