@@ -103,9 +103,9 @@ I'm proactive, responsible, and highly motivated to keep learning and growing in
 
 ## 📊 GitHub Stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelBerretta&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBerretta&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=AngelBerretta&theme=transparent&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBerretta&layout=compact&theme=transparent)
 ---
 
 ## 📌 Availability
