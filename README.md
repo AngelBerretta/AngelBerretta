@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-Active-2196F3?style=for-the-badge"/></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-Ver_versión-lightgrey?style=for-the-badge"/></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma;Information+Systems+Student+(UNLu);Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
