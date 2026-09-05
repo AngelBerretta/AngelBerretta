@@ -31,7 +31,7 @@ I'm a **Full Stack Junior Developer** with **real project experience** in React,
 
 Currently completing my **Information Systems degree at UNLu**. I build responsive interfaces, secure REST APIs and relational databases, always focused on clean code and great user experience.
 
-- 🔭 Currently working as a **Full Stack Developer at AmplixMe**, building a full-stack tech news blog in a professional-style team environment.
+- 💼 Recently completed a **Full Stack Developer training program at AmplixMe**, building a full-stack tech news blog in a professional-style team environment.
 - 🌱 Deepening my skills in **PostgreSQL, Prisma ORM, JWT authentication & role-based access control**.
 - 💼 Available for **freelance projects & full-time opportunities**.
 - 📫 Reach me at **angelberretta.dev@gmail.com**
@@ -83,7 +83,7 @@ Currently completing my **Information Systems degree at UNLu**. I build responsi
 ## 💼 Experience
 
 ### 🏢 Full Stack Developer — AmplixMe
-📆 **May 2026 – Present** · Remote · Career-launch training program
+📆 **May 2026 – June 2026** · ~2 months · Remote · Career-launch training program
 
 Collaborating in a team to build a **full-stack tech news blog**, replicating the dynamics of a real professional environment.
 
