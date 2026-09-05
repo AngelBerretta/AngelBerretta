@@ -31,7 +31,7 @@ Soy **Desarrollador Full Stack Junior** con **proyectos reales** en React, Fireb
 
 Actualmente curso la **Licenciatura en Sistemas de Información en la UNLu**. Construyo interfaces responsivas, APIs REST seguras y bases de datos relacionales, siempre con foco en código limpio y buena experiencia de usuario.
 
-- 🔭 Trabajando actualmente como **Full Stack Developer en AmplixMe**, construyendo un blog fullstack de noticias de tecnología en un entorno tipo empresa.
+- 💼 Recientemente completé un **programa de formación como Full Stack Developer en AmplixMe**, donde construí un blog fullstack de noticias de tecnología en un entorno tipo empresa.
 - 🌱 Profundizando conocimientos en **PostgreSQL, Prisma ORM, autenticación JWT y control de acceso por roles**.
 - 💼 Disponible para **proyectos freelance y oportunidades full time**.
 - 📫 Contacto: **angelberretta.dev@gmail.com**
@@ -83,7 +83,7 @@ Actualmente curso la **Licenciatura en Sistemas de Información en la UNLu**. Co
 ## 💼 Experiencia
 
 ### 🏢 Full Stack Developer — AmplixMe
-📆 **Mayo 2026 – Actualidad** · Remoto · Programa de formación e inserción laboral
+📆 **Mayo 2026 – Junio 2026** · ~2 meses · Remoto · Programa de formación e inserción laboral
 
 Colaboro en equipo para construir un **blog fullstack de noticias de tecnología**, replicando la dinámica de un entorno profesional real.
 
